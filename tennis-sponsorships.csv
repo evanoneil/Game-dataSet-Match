@@ -55,7 +55,7 @@ Joao,Fonseca,BRA,On,On,Yonex,XP
 Taylor,Fritz,USA,Hugo Boss,Asics,Head,"Motorola | Chipotle"
 Marton,Fucsovics,HUN,About Sports → Australian,Nike,Yonex,"Mol | Hotelplanner.com"
 Daniel Elahi,Galán,COL,Joma,Joma,Wilson,Colsanitas
-Cristian,Garin,CHI,About Sports → Lululemon*,Nike → New Balance,Wilson → Head,
+Cristian,Garin,CHI,About Sports → Lululemon*,Nike → New Balance,Head,
 Richard,Gasquet,FRA,Le Coq Sportif,Le Coq Sportif,Head,
 Hugo,Gaston,FRA,Adidas → –,Adidas*,Wilson,Extia
 Egor,Gerasimov,BLR,Hydrogen,Nike,Head,
@@ -69,7 +69,7 @@ Lloyd,Harris,RSA,Lotto,Lotto,Yonex,
 Pierre-Hugues,Herbert,FRA,Lacoste,Nike → Lacoste,Yonex,"Weleda | Brainvest"
 Rinky,Hijikata,AUS,Fila,Fila,Yonex,
 Ugo,Humbert,FRA,Lacoste,Lacoste,Wilson,"Renault | DLSI"
-Hubert,Hurkacz,POL,Yonex → Adidas,Yonex → Adidas,Yonex → Wilson,Waterdrop
+Hubert,Hurkacz,POL,Yonex → Adidas,Yonex → Adidas,Wilson,Waterdrop
 Marc-Andrea,Hüsler,SUI,Fourteen,Asics,Wilson,Fromm
 Ilya,Ivashka,BLR,Hydrogen,Nike,Head,
 Nicolas,Jarry,CHI,Nico (Own logo) → Wilson,Nike → Wilson,Wilson,
@@ -101,17 +101,17 @@ Hamad,Medjedovic,SRB,EA7,Asics,Babolat,4XC
 Daniil,Medvedev,RUS,Lacoste,Lacoste,Tecnifibre,Bovet 1822
 Jakub,Mensik,CZE,Adidas,Adidas,Wilson,"Prostejov | OKsystem"
 Alex,Michelsen,USA,Adidas,Adidas,Babolat,
-Michael,Mmoh,USA,Adidas,Adidas,Yonex → Dunlop,
+Michael,Mmoh,USA,Adidas,Adidas,Dunlop,
 Alex,Molcan,SVK,Asics,Asics,Wilson,
 Gael,Monfils,FRA,Artengo,Artengo,Artengo,MacPaw
 Thiago,Monteiro,BRA,Joma → Slyce,Joma,Wilson,"Angá | EQI"
-Corentin,Moutet,FRA,Asics → Celio,Asics,Wilson → Tecnifibre,Echelon
+Corentin,Moutet,FRA,Asics → Celio,Asics,Tecnifibre,Echelon
 Giovanni,Mpetshi Perricard,FRA,Nike,Nike,Babolat,
 Alexandre,Muller,FRA,Adidas → Joma,Adidas → Joma,Babolat,
 Jaume,Munar,ESP,Adidas,Adidas,Yonex,
 Lorenzo,Musetti,ITA,Asics,Asics,Head,
 Sumit,Nagal,IND,Asics,Asics,Yonex,"Indian Oil | Aryan"
-Brandon,Nakashima,USA,Fila,Fila,Babolat → Yonex,
+Brandon,Nakashima,USA,Fila,Fila,Yonex,
 Luca,Nardi,ITA,Yonex → Adidas,Asics → Adidas,Yonex,
 Mariano,Navone,ARG,Joma,Joma,Head,"Praemium | Wild of Hyatt"
 Kei,Nishikori,JPN,Uniqlo,Nike,Wilson,Japan Airlines
@@ -120,7 +120,7 @@ Cameron,Norrie,GBR,K-Swiss → Babolat,K-Swiss → Babolat,Babolat,Rado
 Dennis,Novak,AUT,Lotto,Lotto,Head,
 Christopher,O'Connell,AUS,Le Coq Sportif,Wilson,Wilson,
 Sebastian,Ofner,AUT,Lotto,Lotto,Babolat,"Omni Biotic | KNV"
-Reilly,Opelka,USA,Fila,Fila,Wilson → Tecnifibre,
+Reilly,Opelka,USA,Fila,Fila,Tecnifibre,
 Oscar,Otte,GER,Grubenhelden → Quiet Please,Babolat,Babolat,IFM
 Benoit,Paire,FRA,Lacoste → Celio,Babolat,Babolat,
 Tommy,Paul,USA,New Balance,New Balance,Yonex,"Motorola | Celsius"
@@ -142,7 +142,7 @@ Diego,Schwartzman,ARG,Fila,Fila,Head,"Disney+ | Midea"
 Thiago,Seyboth Wild,BRA,Joma → J. Lindeberg,Joma → Nike*,Wilson,"Prognum | BRB"
 Juncheng,Shang,CHN,Nike,Nike,Babolat,
 Denis,Shapovalov,CAN,Nike,Nike,Yonex,
-Abdullah,Shelbayh,JOR,Adidas,Adidas,Head → Yonex,
+Abdullah,Shelbayh,JOR,Adidas,Adidas,Yonex,
 Ben,Shelton,USA,New Balance → On,New Balance → On,Yonex,
 Alexander,Shevchenko,KAZ,Adidas → Mizuno,Adidas → Mizuno,Babolat,
 Jannik,Sinner,ITA,Nike,Nike,Head,
@@ -156,11 +156,11 @@ Learner,Tien,USA,Adidas,Adidas,Wilson,
 Thiago,Tirante,ARG,Fila,Wilson,Wilson,
 Stefano,Travaglia,ITA,Lotto,Lotto,Wilson*,
 Stefanos,Tsitsipas,GRE,Adidas,Adidas,Wilson,
-Yasutaka,Uchiyama,JPN,Adidas,Adidas,Wilson → Head,
+Yasutaka,Uchiyama,JPN,Adidas,Adidas,Head,
 Camilo,Ugo Carabelli,ARG,Joma,Joma,Head,"Blue Owl | Midea"
 Luca,Van Assche,FRA,Le Coq Sportif,Asics,Wilson,Renault
 Botic,van de Zandschulp,NED,Indian Maharadja,Asics,Babolat,"Ziggo Sport | Audi udenhout.nl"
-Tim,van Rijthoven,NED,Indian Maharadja,Asics,Yonex → Dunlop,"Borek | Audi udenhout.nl"
+Tim,van Rijthoven,NED,Indian Maharadja,Asics,Dunlop,"Borek | Audi udenhout.nl"
 Juan Pablo,Varillas,PER,Lotto,Lotto,Wilson,"Diners Club International | DIRECTV"
 Jiri,Vesely,CZE,Lotto,Lotto,Wilson,
 Otto,Virtanen,FIN,Wilson,Wilson,Wilson,
